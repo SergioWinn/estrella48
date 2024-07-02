@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086940079074",
+    "project_id": "estrella48-484848",
+    "storage_bucket": "estrella48-484848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086940079074:android:489a7f9b92453ee1cd4fbb",
+        "android_client_info": {
+          "package_name": "com.example.estrella48"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUnYxryP0_hEK5ExCISy3C44WbGqrPVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
